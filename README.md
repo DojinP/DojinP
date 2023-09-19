@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EAEBEC&width=800&height=350&section=header&section=footer&text=Jin's%20GitHub&fontColor=423587)
 
 
-[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP)
+|[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&show_icons=true&theme=radical)](https://github.com/DojinP/github-readme-stats) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&show_icons=true&theme=radical)](https://github.com/DojinP/github-readme-stats)
-
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+<!--![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)-->
+![Java](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 
