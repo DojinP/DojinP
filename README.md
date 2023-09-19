@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EAEBEC&width=800&height=350&section=header&section=footer&text=Jin's%20GitHub&fontColor=423587)
 
+<!--[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&show_icons=true&theme=radical)](https://github.com/DojinP/github-readme-stats) -->
 
-|[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&show_icons=true&theme=radical)](https://github.com/DojinP/github-readme-stats) |
+| <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jin's github stats" /></a> | <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)-->
