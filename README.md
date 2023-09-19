@@ -59,6 +59,9 @@
 	<br>
 </div>
 
+<br>
+<br>
+
  | <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jin's github stats" /></a> | <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&theme=buefy&hide_border=true" /></a> |
  | ------------- | ------------- |
 
