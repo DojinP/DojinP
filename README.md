@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EAEBEC&width=800&height=350&section=header&section=footer&text=Jin's%20GitHub&fontColor=423587)
 
 
-[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=DojinP)](https://github.com/DojinP)
+[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact)](https://github.com/DojinP/github-readme-stats)
 
@@ -22,6 +22,7 @@
 -->
 
 ---
+
 <!-- **굵게** <br>
 *이탤릭* <br>
 ~~취소선~~ <br>
