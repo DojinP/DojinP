@@ -48,7 +48,7 @@
 		<img src="https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white" />
 	</a>
 	<a href="mailto:coah2013@naver.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://pdjin8119.notion.site/Back-End-Developer-e1c34d1e196f42b5b7ef7e4ade10f165?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
