@@ -12,10 +12,10 @@
 <!-- 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> -->
 <!-- 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> -->
 <!-- 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> -->
   	<br>
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <!-- 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
@@ -34,7 +34,7 @@
 
 <div align=center>
 <!-- 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<br>
 <!-- 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> -->
@@ -50,15 +50,15 @@
 	<!--<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>-->
-	<a href="https://blog.naver.com/jins_log">
+<!-- 	<a href="https://blog.naver.com/jins_log">
 		<img src="https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white" />
-	</a>
-	<a href="mailto:coah2013@naver.com">
+	</a> -->
+	<a href="mailto:pdjin8119@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://pdjin8119.notion.site/Back-End-Developer-e1c34d1e196f42b5b7ef7e4ade10f165?pvs=4">
+<!-- 	<a href="https://pdjin8119.notion.site/Back-End-Developer-e1c34d1e196f42b5b7ef7e4ade10f165?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
+	</a> -->
 	<br>
 </div>
 
