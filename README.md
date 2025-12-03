@@ -75,7 +75,42 @@
 
 
 
+# 👋 DojinP - Full-Stack Web Developer | AI Modal Engineer
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical&hide_border=true)
+
+## 🔬 echonance.ai - 실시간 음성 분석 SaaS
+**Echo + Resonance 기술** *(특허 출원 예정 2026 Q1)*
+
+🎯 핵심 기술
+├── MFCC + Mel-Spectrogram 전처리
+├── Transformer + CTC 음성 모델
+├── ONNX Runtime 실시간 추론 (<200ms)
+└── VAD 후처리 엔진
+
+text
+
+**Alpha Test 모집**
+📧 dojinp@gmail.com  
+🔒 https://github.com/DojinP/echonance-ai (Private Invite)
+🛠 전문 기술 스택
+text
+Backend: Spring Boot 2.7.6 | MyBatis 2.3.0 | MySQL 8.0
+AI/ML: PyTorch 2.1 | ONNX 1.16 | 음성 처리 알고리즘
+Frontend: Thymeleaf | jQuery 3.6 | Bootstrap 5
+DevOps: SVN | IntelliJ IDEA | VS Code
+💼 실무 경험
+text
+Funding119 (2년차) - P2P 대출 플랫폼
+├── 복잡 상환 스케줄링 시스템
+├── 관리자 대시보드 개발  
+└── MySQL 최적화 & 마이그레이션
+📈 최근 프로젝트
+echonance.ai AI 음성 분석 SaaS (개발 중)
+
+P2P 금융 시스템 Spring Boot 백엔드
+
+실시간 데이터 처리 엔진
 
 
 
