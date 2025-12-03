@@ -32,7 +32,7 @@ public class Developer {
 ## 💼 Work Experience
 
 **FD119 (Funding119)** - Full-Stack Developer  
-`2023 ~ Present`
+`2024 ~ Present`
 
 - P2P 대출 플랫폼 관리자 대시보드 개발 및 유지보수
 - 복잡한 상환 스케줄링 시스템 설계 및 구현
