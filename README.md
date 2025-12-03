@@ -65,11 +65,12 @@ public class Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!--
 ![DojinP's GitHub stats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
+-->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
+-->
 </div>
 
 ---
