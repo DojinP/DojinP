@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 박도진입니다
+# 👋 안녕하세요, 박도진입니다 (Editing)
 
 ### Full-Stack Web Developer | AI Engineer
 
