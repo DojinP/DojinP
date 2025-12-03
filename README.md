@@ -16,12 +16,14 @@
 FD119에서 **Full-Stack Web Developer**로 근무하며, P2P 금융 플랫폼의 백엔드 시스템을 설계하고 개발하고 있습니다.  
 Spring Boot와 MyBatis 기반의 웹 애플리케이션 개발에 전문성을 가지고 있으며, 데이터베이스 최적화와 시스템 아키텍처 설계에 관심이 많습니다.
 
+또한, **echonance.ai** 에서 실시간 음성 분석 SaaS를 설계·개발하며, 음성 신호 처리와 AI 모델 서빙 환경에도 깊은 흥미를 가지고 있습니다.
+
 <!--
 ```java
 public class Developer {
     private String name = "박도진 (DojinP)";
     private String role = "Full-Stack Web Developer";
-    private String[] interests = {"Backend Architecture", "Database Optimization", "FinTech"};
+    private String[] interests = {"Backend Architecture", "Database Optimization", "FinTech", "AI Voice Analytics"};
     private boolean alwaysLearning = true;
 }
 ```
@@ -38,6 +40,14 @@ public class Developer {
 - 복잡한 상환 스케줄링 시스템 설계 및 구현
 - MySQL 데이터베이스 마이그레이션 및 쿼리 최적화
 - SVN 기반 버전 관리 및 배포 프로세스 관리
+
+**echonance.ai** - AI Voice Analytics Engineer (Side Project)  
+`2025 ~ Present`
+
+- 실시간 음성 분석 SaaS 프로토타입 설계 및 구현
+- MFCC, Mel-Spectrogram 기반 음성 전처리 파이프라인 연구
+- PyTorch/ONNX 기반 음성 인식 모델 서빙 및 최적화
+- Spring Boot 백엔드와 AI 추론 서버 간 연동 API 설계
 
 ---
 
@@ -56,6 +66,11 @@ public class Developer {
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+### AI / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
@@ -82,6 +97,7 @@ public class Developer {
 - **Backend Development**: Spring Boot 기반 RESTful API 설계 및 구현
 - **Database Optimization**: 복잡한 쿼리 최적화 및 인덱싱 전략
 - **Financial Systems**: P2P 금융 플랫폼의 트랜잭션 처리 및 데이터 무결성
+- **AI Voice Analytics**: 실시간 음성 분석 파이프라인 및 모델 서빙
 - **System Architecture**: 확장 가능한 서비스 아키텍처 설계
 
 ---
