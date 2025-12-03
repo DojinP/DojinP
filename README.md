@@ -41,7 +41,7 @@ public class Developer {
 - MySQL 데이터베이스 마이그레이션 및 쿼리 최적화
 - SVN 기반 버전 관리 및 배포 프로세스 관리
 
-**echonance.ai** - AI Voice Analytics Engineer (Side Project)  
+**echonance.ai** - AI Voice Analytics & AI Modeling Engineer (Side Project)  
 `2025 ~ Present`
 
 - 실시간 음성 분석 SaaS 프로토타입 설계 및 구현
