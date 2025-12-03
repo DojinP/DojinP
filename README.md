@@ -1,180 +1,99 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jin's%20Log&fontSize=90" />
-</div>
-
 <div align="center">
- 	<h3>📚 Tech Stack 📚</h3>
-	 <p>✨ Platforms & Languages ✨</p>
+
+# 👋 안녕하세요, 박도진입니다
+
+### Full-Stack Web Developer | AI Engineer
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pdjin8119@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DojinP)
+
 </div>
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> -->
-<!-- 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> -->
-<!-- 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> -->
-  	<br>
-<!-- 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<!-- 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-<!--  	<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> -->
-	<br>
-<!-- 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
-</div>
-
-<br>
-
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-
-<div align=center>
-<!-- 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /> -->
-<!-- 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
-	<br>
-<!-- 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-
-<br>
-
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<!--<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>-->
-<!-- 	<a href="https://blog.naver.com/jins_log">
-		<img src="https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white" />
-	</a> -->
-	<a href="mailto:pdjin8119@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-<!-- 	<a href="https://pdjin8119.notion.site/Back-End-Developer-e1c34d1e196f42b5b7ef7e4ade10f165?pvs=4">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a> -->
-	<br>
-</div>
-
-<br>
-<br>
-
-<!--
- | <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jin's github stats" /></a> | <a href="https://github.com/DojinP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&theme=buefy&hide_border=true" /></a> |
- | ------------- | ------------- |
--->
-
-
-
-
-<!--
-
-# 👋 DojinP - Full-Stack Web Developer | AI Modal Engineer
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical&hide_border=true)
-
-## 🔬 echonance.ai - 실시간 음성 분석 SaaS
-**Echo + Resonance 기술** *(특허 출원 예정 2026 Q1)*
-
-🎯 핵심 기술
-├── MFCC + Mel-Spectrogram 전처리
-├── Transformer + CTC 음성 모델
-├── ONNX Runtime 실시간 추론 (<200ms)
-└── VAD 후처리 엔진
-
-text
-
-**Alpha Test 모집**
-📧 dojinp@gmail.com  
-🔒 https://github.com/DojinP/echonance-ai (Private Invite)
-🛠 전문 기술 스택
-text
-Backend: Spring Boot 2.7.6 | MyBatis 2.3.0 | MySQL 8.0
-AI/ML: PyTorch 2.1 | ONNX 1.16 | 음성 처리 알고리즘
-Frontend: Thymeleaf | jQuery 3.6 | Bootstrap 5
-DevOps: SVN | IntelliJ IDEA | VS Code
-💼 실무 경험
-text
-Funding119 (2년차) - P2P 대출 플랫폼
-├── 복잡 상환 스케줄링 시스템
-├── 관리자 대시보드 개발  
-└── MySQL 최적화 & 마이그레이션
-📈 최근 프로젝트
-echonance.ai AI 음성 분석 SaaS (개발 중)
-
-P2P 금융 시스템 Spring Boot 백엔드
-
-실시간 데이터 처리 엔진
-
--->
-
-
-
 
 ---
 
+## 🚀 About Me
 
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=EAEBEC&width=800&height=350&section=header&section=footer&text=Jin's%20GitHub&fontColor=423587)-->
-<!--[![Jin's githubstats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=radical)](https://github.com/DojinP)-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&show_icons=true&theme=radical)](https://github.com/DojinP/github-readme-stats) -->
-<!--![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)-->
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white) -->
-<!--![Java](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)-->
+FD119에서 **Full-Stack Web Developer**로 근무하며, P2P 금융 플랫폼의 백엔드 시스템을 설계하고 개발하고 있습니다.  
+Spring Boot와 MyBatis 기반의 웹 애플리케이션 개발에 전문성을 가지고 있으며, 데이터베이스 최적화와 시스템 아키텍처 설계에 관심이 많습니다.
 
-
-
-
-<!-- # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋 
--->
-
-<!-- **굵게** <br>
-*이탤릭* <br>
-~~취소선~~ <br>
-
-* 1번
-* 2번
-* 3번
-
-[네이버 가자](https://www.naver.com)
-
-|header|description|
-|--|--|
-|cell1|cell2|
-
-```
-System.out.println("요기요");
+```java
+public class Developer {
+    private String name = "박도진 (DojinP)";
+    private String role = "Full-Stack Web Developer";
+    private String[] interests = {"Backend Architecture", "Database Optimization", "FinTech"};
+    private boolean alwaysLearning = true;
+}
 ```
 
-- [ ] 사람입니까?
+---
 
-:joy:
- -->
-<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer) -->
+## 💼 Work Experience
 
-<!--
-**DojinP/DojinP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FD119 (Funding119)** - Full-Stack Developer  
+`2023 ~ Present`
 
-Here are some ideas to get you started:
+- P2P 대출 플랫폼 관리자 대시보드 개발 및 유지보수
+- 복잡한 상환 스케줄링 시스템 설계 및 구현
+- MySQL 데이터베이스 마이그레이션 및 쿼리 최적화
+- SVN 기반 버전 관리 및 배포 프로세스 관리
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=Fluentd&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![DojinP's GitHub stats](https://github-readme-stats.vercel.app/api?username=DojinP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DojinP&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+</div>
+
+---
+
+## 🎯 Focus Areas
+
+- **Backend Development**: Spring Boot 기반 RESTful API 설계 및 구현
+- **Database Optimization**: 복잡한 쿼리 최적화 및 인덱싱 전략
+- **Financial Systems**: P2P 금융 플랫폼의 트랜잭션 처리 및 데이터 무결성
+- **System Architecture**: 확장 가능한 서비스 아키텍처 설계
+
+---
+
+## 📫 Contact
+
+- **Email**: pdjin8119@gmail.com
+- **GitHub**: [@DojinP](https://github.com/DojinP)
+
+---
+
+<div align="center">
+
+**"코드로 가치를 창조하는 개발자"**
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDojinP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+</div>
