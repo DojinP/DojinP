@@ -16,6 +16,7 @@
 FD119에서 **Full-Stack Web Developer**로 근무하며, P2P 금융 플랫폼의 백엔드 시스템을 설계하고 개발하고 있습니다.  
 Spring Boot와 MyBatis 기반의 웹 애플리케이션 개발에 전문성을 가지고 있으며, 데이터베이스 최적화와 시스템 아키텍처 설계에 관심이 많습니다.
 
+<!--
 ```java
 public class Developer {
     private String name = "박도진 (DojinP)";
@@ -24,6 +25,7 @@ public class Developer {
     private boolean alwaysLearning = true;
 }
 ```
+-->
 
 ---
 
