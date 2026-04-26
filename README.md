@@ -100,7 +100,9 @@ public class Developer {
 - **Backend Development**: Spring Boot 기반 RESTful API 설계 및 구현
 - **Database Optimization**: 복잡한 쿼리 최적화 및 인덱싱 전략
 - **Financial Systems**: P2P 금융 플랫폼의 트랜잭션 처리 및 데이터 무결성
+<!--
 - **AI Voice Analytics**: 실시간 음성 분석 파이프라인 및 모델 서빙
+-->
 - **System Architecture**: 확장 가능한 서비스 아키텍처 설계
 
 ---
