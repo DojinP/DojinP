@@ -41,6 +41,7 @@ public class Developer {
 - MySQL 데이터베이스 마이그레이션 및 쿼리 최적화
 - SVN 기반 버전 관리 및 배포 프로세스 관리
 
+<!--
 **echonance.ai** - AI Voice Analytics & AI Modeling Engineer (Side Project)  
 `2025 ~ Present`
 
@@ -48,7 +49,7 @@ public class Developer {
 - MFCC, Mel-Spectrogram 기반 음성 전처리 파이프라인 연구
 - PyTorch/ONNX 기반 음성 인식 모델 서빙 및 최적화
 - Spring Boot 백엔드와 AI 추론 서버 간 연동 API 설계
-
+-->
 ---
 
 ## 🛠️ Tech Stack
